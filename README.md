@@ -1,0 +1,1 @@
+# ghec-dependabot-vulnerabilites
